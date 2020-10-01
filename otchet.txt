@@ -1,0 +1,374 @@
+Отчет о компьютере:
+MINGW64_NT-10.0-19041 RTS247UVL21 3.1.6-340.x86_64 2020-07-09 14:33 UTC x86_64 Msys
+Запущенные программы:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1200       1    1200       6040  ?        1049722 11:59:23 /usr/bin/mintty
+     1575    1201    1575      11480  pty0     1049722 12:30:07 /usr/bin/ps
+     1201    1200    1201      10500  pty0     1049722 11:59:27 /usr/bin/bash
+Процессор:     
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 0
+cpu cores	: 3
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 1
+cpu cores	: 3
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 2
+cpu cores	: 3
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 3
+cpu cores	: 3
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 4
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 4
+cpu cores	: 3
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 5
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+microcode	: 0xB4
+cpu MHz		: 2910.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 5
+cpu cores	: 3
+apicid		: 10
+initial apicid	: 10
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm epb fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+bogomips	: 5820.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+Память:
+MemTotal:        8037420 kB
+MemFree:         5135888 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:        8037420 kB
+LowFree:         5135888 kB
+SwapTotal:       1245184 kB
+SwapFree:        1241076 kB
+Filesystem                                   Size  Used Avail Use% Mounted on
+C:/Users/student/AppData/Local/Programs/Git  931G   89G  842G  10% /
+Z: 
+1,4T  1,4T   74G  95% /z
+Текстовых файлов всего:
+195
+Список:
+/usr/share/gnupg/help.be.txt
+/usr/share/gnupg/help.ca.txt
+/usr/share/gnupg/help.cs.txt
+/usr/share/gnupg/help.da.txt
+/usr/share/gnupg/help.de.txt
+/usr/share/gnupg/help.el.txt
+/usr/share/gnupg/help.eo.txt
+/usr/share/gnupg/help.es.txt
+/usr/share/gnupg/help.et.txt
+/usr/share/gnupg/help.fi.txt
+/usr/share/gnupg/help.fr.txt
+/usr/share/gnupg/help.gl.txt
+/usr/share/gnupg/help.hu.txt
+/usr/share/gnupg/help.id.txt
+/usr/share/gnupg/help.it.txt
+/usr/share/gnupg/help.ja.txt
+/usr/share/gnupg/help.nb.txt
+/usr/share/gnupg/help.pl.txt
+/usr/share/gnupg/help.pt.txt
+/usr/share/gnupg/help.pt_BR.txt
+/usr/share/gnupg/help.ro.txt
+/usr/share/gnupg/help.ru.txt
+/usr/share/gnupg/help.sk.txt
+/usr/share/gnupg/help.sv.txt
+/usr/share/gnupg/help.tr.txt
+/usr/share/gnupg/help.txt
+/usr/share/gnupg/help.zh_CN.txt
+/usr/share/gnupg/help.zh_TW.txt
+/usr/share/licenses/ncurses/license.txt
+/usr/share/licenses/vim/license.txt
+/usr/share/perl5/core_perl/unicore/Blocks.txt
+/usr/share/perl5/core_perl/unicore/NamedSequences.txt
+/usr/share/perl5/core_perl/unicore/SpecialCasing.txt
+/usr/share/vim/vim82/autoload/README.txt
+/usr/share/vim/vim82/colors/README.txt
+/usr/share/vim/vim82/compiler/README.txt
+/usr/share/vim/vim82/doc/arabic.txt
+/usr/share/vim/vim82/doc/autocmd.txt
+/usr/share/vim/vim82/doc/change.txt
+/usr/share/vim/vim82/doc/channel.txt
+/usr/share/vim/vim82/doc/cmdline.txt
+/usr/share/vim/vim82/doc/debug.txt
+/usr/share/vim/vim82/doc/debugger.txt
+/usr/share/vim/vim82/doc/develop.txt
+/usr/share/vim/vim82/doc/diff.txt
+/usr/share/vim/vim82/doc/digraph.txt
+/usr/share/vim/vim82/doc/editing.txt
+/usr/share/vim/vim82/doc/eval.txt
+/usr/share/vim/vim82/doc/farsi.txt
+/usr/share/vim/vim82/doc/filetype.txt
+/usr/share/vim/vim82/doc/fold.txt
+/usr/share/vim/vim82/doc/ft_ada.txt
+/usr/share/vim/vim82/doc/ft_rust.txt
+/usr/share/vim/vim82/doc/ft_sql.txt
+/usr/share/vim/vim82/doc/gui.txt
+/usr/share/vim/vim82/doc/gui_w32.txt
+/usr/share/vim/vim82/doc/gui_x11.txt
+/usr/share/vim/vim82/doc/hangulin.txt
+/usr/share/vim/vim82/doc/hebrew.txt
+/usr/share/vim/vim82/doc/help.txt
+/usr/share/vim/vim82/doc/helphelp.txt
+/usr/share/vim/vim82/doc/howto.txt
+/usr/share/vim/vim82/doc/if_cscop.txt
+/usr/share/vim/vim82/doc/if_lua.txt
+/usr/share/vim/vim82/doc/if_mzsch.txt
+/usr/share/vim/vim82/doc/if_ole.txt
+/usr/share/vim/vim82/doc/if_perl.txt
+/usr/share/vim/vim82/doc/if_pyth.txt
+/usr/share/vim/vim82/doc/if_ruby.txt
+/usr/share/vim/vim82/doc/if_sniff.txt
+/usr/share/vim/vim82/doc/if_tcl.txt
+/usr/share/vim/vim82/doc/indent.txt
+/usr/share/vim/vim82/doc/index.txt
+/usr/share/vim/vim82/doc/insert.txt
+/usr/share/vim/vim82/doc/intro.txt
+/usr/share/vim/vim82/doc/map.txt
+/usr/share/vim/vim82/doc/mbyte.txt
+/usr/share/vim/vim82/doc/message.txt
+/usr/share/vim/vim82/doc/mlang.txt
+/usr/share/vim/vim82/doc/motion.txt
+/usr/share/vim/vim82/doc/netbeans.txt
+/usr/share/vim/vim82/doc/options.txt
+/usr/share/vim/vim82/doc/os_390.txt
+/usr/share/vim/vim82/doc/os_amiga.txt
+/usr/share/vim/vim82/doc/os_beos.txt
+/usr/share/vim/vim82/doc/os_dos.txt
+/usr/share/vim/vim82/doc/os_haiku.txt
+/usr/share/vim/vim82/doc/os_mac.txt
+/usr/share/vim/vim82/doc/os_mint.txt
+/usr/share/vim/vim82/doc/os_msdos.txt
+/usr/share/vim/vim82/doc/os_os2.txt
+/usr/share/vim/vim82/doc/os_qnx.txt
+/usr/share/vim/vim82/doc/os_risc.txt
+/usr/share/vim/vim82/doc/os_unix.txt
+/usr/share/vim/vim82/doc/os_vms.txt
+/usr/share/vim/vim82/doc/os_win32.txt
+/usr/share/vim/vim82/doc/pattern.txt
+/usr/share/vim/vim82/doc/pi_getscript.txt
+/usr/share/vim/vim82/doc/pi_gzip.txt
+/usr/share/vim/vim82/doc/pi_logipat.txt
+/usr/share/vim/vim82/doc/pi_netrw.txt
+/usr/share/vim/vim82/doc/pi_paren.txt
+/usr/share/vim/vim82/doc/pi_spec.txt
+/usr/share/vim/vim82/doc/pi_tar.txt
+/usr/share/vim/vim82/doc/pi_vimball.txt
+/usr/share/vim/vim82/doc/pi_zip.txt
+/usr/share/vim/vim82/doc/popup.txt
+/usr/share/vim/vim82/doc/print.txt
+/usr/share/vim/vim82/doc/quickfix.txt
+/usr/share/vim/vim82/doc/quickref.txt
+/usr/share/vim/vim82/doc/quotes.txt
+/usr/share/vim/vim82/doc/recover.txt
+/usr/share/vim/vim82/doc/remote.txt
+/usr/share/vim/vim82/doc/repeat.txt
+/usr/share/vim/vim82/doc/rileft.txt
+/usr/share/vim/vim82/doc/russian.txt
+/usr/share/vim/vim82/doc/scroll.txt
+/usr/share/vim/vim82/doc/sign.txt
+/usr/share/vim/vim82/doc/spell.txt
+/usr/share/vim/vim82/doc/sponsor.txt
+/usr/share/vim/vim82/doc/starting.txt
+/usr/share/vim/vim82/doc/syntax.txt
+/usr/share/vim/vim82/doc/tabpage.txt
+/usr/share/vim/vim82/doc/tagsrch.txt
+/usr/share/vim/vim82/doc/term.txt
+/usr/share/vim/vim82/doc/terminal.txt
+/usr/share/vim/vim82/doc/testing.txt
+/usr/share/vim/vim82/doc/textprop.txt
+/usr/share/vim/vim82/doc/tips.txt
+/usr/share/vim/vim82/doc/todo.txt
+/usr/share/vim/vim82/doc/uganda.txt
+/usr/share/vim/vim82/doc/undo.txt
+/usr/share/vim/vim82/doc/usr_01.txt
+/usr/share/vim/vim82/doc/usr_02.txt
+/usr/share/vim/vim82/doc/usr_03.txt
+/usr/share/vim/vim82/doc/usr_04.txt
+/usr/share/vim/vim82/doc/usr_05.txt
+/usr/share/vim/vim82/doc/usr_06.txt
+/usr/share/vim/vim82/doc/usr_07.txt
+/usr/share/vim/vim82/doc/usr_08.txt
+/usr/share/vim/vim82/doc/usr_09.txt
+/usr/share/vim/vim82/doc/usr_10.txt
+/usr/share/vim/vim82/doc/usr_11.txt
+/usr/share/vim/vim82/doc/usr_12.txt
+/usr/share/vim/vim82/doc/usr_20.txt
+/usr/share/vim/vim82/doc/usr_21.txt
+/usr/share/vim/vim82/doc/usr_22.txt
+/usr/share/vim/vim82/doc/usr_23.txt
+/usr/share/vim/vim82/doc/usr_24.txt
+/usr/share/vim/vim82/doc/usr_25.txt
+/usr/share/vim/vim82/doc/usr_26.txt
+/usr/share/vim/vim82/doc/usr_27.txt
+/usr/share/vim/vim82/doc/usr_28.txt
+/usr/share/vim/vim82/doc/usr_29.txt
+/usr/share/vim/vim82/doc/usr_30.txt
+/usr/share/vim/vim82/doc/usr_31.txt
+/usr/share/vim/vim82/doc/usr_32.txt
+/usr/share/vim/vim82/doc/usr_40.txt
+/usr/share/vim/vim82/doc/usr_41.txt
+/usr/share/vim/vim82/doc/usr_42.txt
+/usr/share/vim/vim82/doc/usr_43.txt
+/usr/share/vim/vim82/doc/usr_44.txt
+/usr/share/vim/vim82/doc/usr_45.txt
+/usr/share/vim/vim82/doc/usr_90.txt
+/usr/share/vim/vim82/doc/usr_toc.txt
+/usr/share/vim/vim82/doc/various.txt
+/usr/share/vim/vim82/doc/version4.txt
+/usr/share/vim/vim82/doc/version5.txt
+/usr/share/vim/vim82/doc/version6.txt
+/usr/share/vim/vim82/doc/version7.txt
+/usr/share/vim/vim82/doc/version8.txt
+/usr/share/vim/vim82/doc/vim9.txt
+/usr/share/vim/vim82/doc/visual.txt
+/usr/share/vim/vim82/doc/vi_diff.txt
+/usr/share/vim/vim82/doc/windows.txt
+/usr/share/vim/vim82/doc/workshop.txt
+/usr/share/vim/vim82/ftplugin/README.txt
+/usr/share/vim/vim82/indent/README.txt
+/usr/share/vim/vim82/keymap/README.txt
+/usr/share/vim/vim82/lang/README.txt
+/usr/share/vim/vim82/macros/maze/README.txt
+/usr/share/vim/vim82/macros/README.txt
+/usr/share/vim/vim82/macros/urm/README.txt
+/usr/share/vim/vim82/pack/dist/opt/matchit/doc/matchit.txt
+/usr/share/vim/vim82/plugin/README.txt
+/usr/share/vim/vim82/rgb.txt
+/usr/share/vim/vim82/syntax/README.txt
+/usr/share/vim/vim82/tools/ccfilter_README.txt
+/usr/share/vim/vim82/tools/efm_filter.txt
+/usr/share/vim/vim82/tools/mve.txt
+/usr/share/vim/vim82/tools/README.txt
+/usr/share/vim/vim82/tools/vimspell.txt
+/usr/share/vim/vim82/tutor/README.el.cp737.txt
+/usr/share/vim/vim82/tutor/README.el.txt
+/usr/share/vim/vim82/tutor/README.txt
